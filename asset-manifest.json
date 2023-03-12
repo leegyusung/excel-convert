@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/excel-convert/static/css/main.44f8b8b5.css",
+    "main.js": "/excel-convert/static/js/main.53fbf274.js",
+    "index.html": "/excel-convert/index.html",
+    "main.44f8b8b5.css.map": "/excel-convert/static/css/main.44f8b8b5.css.map",
+    "main.53fbf274.js.map": "/excel-convert/static/js/main.53fbf274.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.53fbf274.js"
+  ]
+}
